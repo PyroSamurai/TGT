@@ -1,4 +1,4 @@
-# TalesWeaver Image Tool (TWIT)
+# TalesWeaver Image Extractor (TIE)
 A tool that is intended to extract or convert the various TalesWeaver image archives and non-standard formats
 
 __Language__: Java <br/>
